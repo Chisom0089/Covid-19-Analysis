@@ -16,7 +16,6 @@ The pandemic has had significant global impacts on public health, economies, edu
 # PROBLEM STATEMENT
 This project aims at analyzing the global impact of the COVID-19 pandemic, spread, impact, and response to the virus, in order to inform evidence-based decision-making, develop targeted interventions, and mitigate the health, social, and economic consequences of the pandemic.
 
-
 #DATA COLLECTION/SOURCING
 I collected the Dataset from COVID-19 Data repository by the Centre for Systems Science and Engineering (CSSE) by John Hopkins University. The data contains daily time series summary tables, including confirmed, deaths and recovered which is updated every 24 hours from the official source. The raw file can be accessed [https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series].
 
