@@ -5,7 +5,7 @@
 2. Problem Statement
 3. Data Collection/Sourcing
 4. Data Cleaning and Preparation
-5. Findings and Recommendations
+5. Insights
 
 # Introduction
 The COVID-19 pandemic is a global health crisis caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). It was first identified in December 2019 in the city of Wuhan, Hubei province, China. The virus is basically spreads through respiratory droplets when an infected person coughs, sneezes, talks, or breathes. It can also spread by touching surfaces contaminated with the virus and then touching the face, although this is considered a less common mode of transmission.
@@ -25,6 +25,14 @@ The datasets are made up of three different tables; The confrimed cases, Death a
 The three datasets were merged together to get a consolidated datasets which was used for analysis and visualization. I created the year, month and day values from the date columns using the Year, Month and Day Funtions respectively.
 
 # INSIGHTS
+1. United States, India, Brazil, France and Germany have the highest prevalence of the COVID-19 Pandemic
+2. North Korea, Antartica, Ms. Zaandam and Winter Olympics are the least affected countries
+3. The global total confirmed cases is 316, 910,296,319 while 23,227,207,571 cases were recovered
+4. A total of 4,419,816,964 deaths were recorded
+5. The death rate was 1.39% against recovery rate of 7.33%
+6. The year 2022 has the highest number of confirmed cases followed by 2021 while 2020 remains the least year
+7. The months of January and February houses the most prevalent cases of COVID-19
+8. There was increase in COVID-19 which was drastically reduced after 2022.
 
 
 
