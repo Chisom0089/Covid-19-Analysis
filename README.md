@@ -13,7 +13,6 @@ The COVID-19 pandemic is a global health crisis caused by the severe acute respi
 
 The pandemic has had significant global impacts on public health, economies, education, travel, and daily life. Measures have been implemented by both Governments and health organizations worldwide to contain the spread of the virus, including widespread testing, contact tracing, social distancing, mask mandates, travel restrictions, and vaccination campaigns.
 
-
 # PROBLEM STATEMENT
 This project aims at analyzing the global impact of the COVID-19 pandemic, spread, impact, and response to the virus, in order to inform evidence-based decision-making, develop targeted interventions, and mitigate the health, social, and economic consequences of the pandemic.
 
@@ -35,11 +34,8 @@ The three datasets were merged together to get a consolidated datasets which was
 7. The months of January and February houses the most prevalent cases of COVID-19
 8. There was increase in COVID-19 which was drastically reduced after 2022.
 
-
 #  RECOMMENDATIONS
 1. Continous public health messaging to promote preventive measures such as Social distancing, hand hygiene, mask wearing and uphold coughing etiquette.
 2. Learn from the COVID 19 experience and invest more in pandemic preparedness for future outbreaks
 3. Provide support systems and interventions to address the psychological well-being of individuals after the crisis
 4. Vaccination campaigns should be prioritized especially to vulnerable populations.
-
-
