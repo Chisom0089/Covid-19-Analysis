@@ -16,13 +16,15 @@ The pandemic has had significant global impacts on public health, economies, edu
 # PROBLEM STATEMENT
 This project aims at analyzing the global impact of the COVID-19 pandemic, spread, impact, and response to the virus, in order to inform evidence-based decision-making, develop targeted interventions, and mitigate the health, social, and economic consequences of the pandemic.
 
-#DATA COLLECTION/SOURCING
+# DATA COLLECTION/SOURCING
 I collected the Dataset from COVID-19 Data repository by the Centre for Systems Science and Engineering (CSSE) by John Hopkins University. The data contains daily time series summary tables, including confirmed, deaths and recovered which is updated every 24 hours from the official source. The raw file can be accessed [https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series].
 
 # DATA CLEANING AND EXPLORATION
 The datasets are made up of three different tables; The confrimed cases, Death and Recovered cases which contains different columns and values. The data cleaning and preparation was done using Microsoft Excel Power Query Editor. I ensured the quality of the dataset by removing unneccessary/empty columns, checked for correct data types. 
 
 The three datasets were merged together to get a consolidated datasets which was used for analysis and visualization. I created the year, month and day values from the date columns using the Year, Month and Day Funtions respectively. I also got the daily confirmed, death and recovered cases. After the data cleaning process, I loaded 330,328 rows and 11 columns of data to the excel worksheet. I created new worksheet for data visualization and Analysis.
+
+![Covid 19 analysis screenshot](https://github.com/Chisom0089/My-First-DA-Repo/assets/138637505/3981492d-6374-4939-bf77-4ca5c5f0ea4f)
 
 # INSIGHTS
 1. United States, India, Brazil, France and Germany have the highest prevalence of the COVID-19 Pandemic
