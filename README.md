@@ -22,7 +22,11 @@ I collected the Dataset from COVID-19 Data repository by the Centre for Systems 
 # DATA CLEANING AND EXPLORATION
 The datasets are made up of three different tables; The confrimed cases, Death and Recovered cases which contains different columns and values. The data cleaning and preparation was done using Microsoft Excel Power Query Editor. I ensured the quality of the dataset by removing unneccessary/empty columns, checked for correct data types. 
 
-The three datasets were merged together to get a consolidated datasets which was used for analysis and visualization. I created the year, month and day values from the date columns using the Year, Month and Day Funtions respectively. I also got the daily confirmed, death and recovered cases. After the data cleaning process, I loaded 330,328 rows and 11 columns of data to the excel worksheet. I created new worksheet for data visualization and Analysis.
+The three datasets were merged together to get a consolidated datasets which was used for analysis and visualization. I created the year, month and day values from the date columns using the Year, Month and Day Funtions respectively. I also got the daily confirmed, death and recovered cases. After the data cleaning process, I loaded 330,328 rows and 11 columns of data to the excel worksheet. I created new worksheet for data visualization and Analysis. Below is a preview of the cleaned consolidated data set used for the analysis.
+
+![covid 19 cleaned](https://github.com/Chisom0089/Covid-19-Analysis/assets/138637505/487cd8f1-b794-4d19-8931-6fea009b9412)
+
+# 
 
 ![Covid 19 analysis screenshot](https://github.com/Chisom0089/My-First-DA-Repo/assets/138637505/3981492d-6374-4939-bf77-4ca5c5f0ea4f)
 
