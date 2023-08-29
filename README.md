@@ -31,17 +31,17 @@ The three datasets were merged together to get a consolidated datasets which was
 ![Covid 19 analysis screenshot](https://github.com/Chisom0089/My-First-DA-Repo/assets/138637505/3981492d-6374-4939-bf77-4ca5c5f0ea4f)
 
 # INSIGHTS
-1. United States, India, Brazil, France and Germany have the highest prevalence of the COVID-19 Pandemic
-2. North Korea, Antartica, Ms. Zaandam and Winter Olympics are the least affected countries
-3. The global total confirmed cases is 316, 910,296,319 while 23,227,207,571 cases were recovered
-4. A total of 4,419,816,964 deaths were recorded
-5. The death rate was 1.39% against recovery rate of 7.33%
-6. The year 2022 has the highest number of confirmed cases followed by 2021 while 2020 remains the least year
-7. The months of January and February houses the most prevalent cases of COVID-19
+1. United States, India, Brazil, France and Germany have the highest prevalence of the COVID-19 Pandemic.
+2. North Korea, Antartica, Ms. Zaandam and Winter Olympics are the least affected countries.
+3. The global total confirmed cases is 316, 910,296,319 while 23,227,207,571 cases were recovered.
+4. A total of 4,419,816,964 deaths were recorded.
+5. The death rate was 1.39% against recovery rate of 7.33%.
+6. The year 2022 has the highest number of confirmed cases followed by 2021 while 2020 remains the least year.
+7. The months of January and February houses the most prevalent cases of COVID-19.
 8. There was increase in COVID-19 which was drastically reduced after 2022.
 
 #  RECOMMENDATIONS
 1. Continous public health messaging to promote preventive measures such as Social distancing, hand hygiene, mask wearing and uphold coughing etiquette.
-2. Learn from the COVID 19 experience and invest more in pandemic preparedness for future outbreaks
-3. Provide support systems and interventions to address the psychological well-being of individuals after the crisis
+2. Learn from the COVID 19 experience and invest more in pandemic preparedness for future outbreaks.
+3. Provide support systems and interventions to address the psychological well-being of individuals after the crisis.
 4. Vaccination campaigns should be prioritized especially to vulnerable populations.
